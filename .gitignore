@@ -1,0 +1,62 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Dependencies
+node_modules
+dist
+dist-ssr
+*.local
+
+# Environment variables (Never commit secrets!)
+.env
+.env.*
+!.env.example
+
+# Editor and OS files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+desktop.ini
+Thumbs.db
+*.lnk
+
+# Archive & Local scratch
+_archive/
+*.py
+*.pptx
+*.ppt
+*.docx
+*.doc
+*.xlsx
+*.xls
+*.pdf
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Unrelated personal / system directories in workspace
+Camera Roll/
+Criterion Games/
+RailwayReservationApp/
+RailwayReservationSystem/
+Screenshots/
+true-cinematic-lut-studio-orange (1)/
+vibeblog/
+
+# Unrelated personal files in workspace
+1000070223.jpg.jpeg
+spider-man-intense-6895x2880-25455.jpg
+Retail_Supermarket_Device_Configurations.txt
+Retail_Supermarket_Network.pkt
